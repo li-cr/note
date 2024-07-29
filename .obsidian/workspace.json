@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/PNG/未命名.md",
+                "file": "计算机组成原理/1.md",
                 "mode": "source",
                 "source": true
               }
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -199,7 +199,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9f98cf832aadf411",
+  "active": "6d9173f1f433df9a",
   "lastOpenFiles": [
     "计算机组成原理/PNG/未命名.md",
     "计算机组成原理/1.md",

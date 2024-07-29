@@ -1,9 +1,9 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "obsidian note : {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
-  "autoPullInterval": 5,
+  "autoPullInterval": 1,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -18,7 +18,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": ".",
-  "differentIntervalCommitAndPush": true,
+  "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "obsidian note : {{date}}"
 }
