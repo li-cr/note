@@ -6,6 +6,7 @@
       {
         "id": "97ec92849fcfd2cd",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "6d9173f1f433df9a",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/PNG/未命名.md",
                 "mode": "source",
                 "source": true
               }
@@ -24,6 +25,7 @@
       {
         "id": "200ea8f179f62b73",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "9f98cf832aadf411",
@@ -87,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 331.5
   },
   "right": {
     "id": "a82ab65eec16749e",
@@ -162,13 +164,29 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "e8af31c4865f4acc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cb947c3e3636e92",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +199,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6d9173f1f433df9a",
+  "active": "9f98cf832aadf411",
   "lastOpenFiles": [
+    "计算机组成原理/PNG/未命名.md",
     "计算机组成原理/1.md",
     "计算机组成原理/PNG/Pasted image 20240729174823.png",
     "计算机组成原理/PNG/Pasted image 20240729172951.png",
