@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97708d4196e88555",
+        "id": "97ec92849fcfd2cd",
         "type": "tabs",
-        "dimension": 52.477064220183486,
         "children": [
           {
-            "id": "06a883f07fab9b13",
+            "id": "6d9173f1f433df9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,12 +22,11 @@
         ]
       },
       {
-        "id": "97ec92849fcfd2cd",
+        "id": "200ea8f179f62b73",
         "type": "tabs",
-        "dimension": 47.522935779816514,
         "children": [
           {
-            "id": "6d9173f1f433df9a",
+            "id": "9f98cf832aadf411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,22 +181,24 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "02c0031159f1b9f2",
+  "active": "6d9173f1f433df9a",
   "lastOpenFiles": [
+    "计算机组成原理/1.md",
+    "计算机组成原理/PNG/Pasted image 20240729174823.png",
+    "计算机组成原理/PNG/Pasted image 20240729172951.png",
+    "未命名/未命名.md",
+    "未命名/未命名",
     "README.md",
     "dawaw.md",
     "Github.md",
     "2024-07-25.md",
     "Pasted.md",
-    "计算机组成原理/1.md",
-    "计算机组成原理/PNG/Pasted image 20240729174823.png",
     "计算机组成原理/PNG/vx.json",
     "计算机组成原理/vx.json",
     "计算机组成原理/vx_notebook/vx_notebook.json",
     "计算机组成原理/vx_notebook/notebook.db",
     "计算机组成原理/vx_notebook",
     "欢迎.md",
-    "计算机组成原理/PNG/Pasted image 20240729172951.png",
     "计算机组成原理/PNG",
     "dd.md",
     "未命名 1.md",
