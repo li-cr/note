@@ -17,22 +17,29 @@
                 "mode": "source",
                 "source": true
               }
-            }
-          },
+            },
+            "group": "327f5f83c0a2fbc6"
+          }
+        ]
+      },
+      {
+        "id": "2d7aa4d009adba26",
+        "type": "tabs",
+        "children": [
           {
-            "id": "69adf027a30e2f34",
+            "id": "58e32024c4cc2843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "计算机组成原理/1.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
-            }
+            },
+            "group": "327f5f83c0a2fbc6"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +199,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "69adf027a30e2f34",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
     "Docker.md",
     "未命名/未命名.md",
