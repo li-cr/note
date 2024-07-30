@@ -6,7 +6,6 @@
       {
         "id": "97ec92849fcfd2cd",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "6d9173f1f433df9a",
@@ -19,27 +18,21 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "200ea8f179f62b73",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "9f98cf832aadf411",
+            "id": "69adf027a30e2f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "计算机组成原理/1.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +192,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5cb947c3e3636e92",
+  "active": "69adf027a30e2f34",
   "lastOpenFiles": [
+    "Docker.md",
+    "未命名/未命名.md",
+    "计算机组成原理/1.md",
     "计算机组成原理/PNG/未命名.md",
     "计算机组成原理/PNG/Pasted image 20240729172951.png",
     "计算机组成原理/PNG/Pasted image 20240729174823.png",
-    "计算机组成原理/1.md",
-    "未命名/未命名.md",
     "未命名/未命名",
     "README.md",
     "dawaw.md",
@@ -222,7 +216,6 @@
     "dd.md",
     "未命名 1.md",
     "计算机组成原理",
-    "未命名.md",
     "新建 TXT 文件.txt",
     "未命名",
     "未命名 3.md",
