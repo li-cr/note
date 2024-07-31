@@ -6,6 +6,7 @@
       {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
+        "dimension": 55.96330275229357,
         "children": [
           {
             "id": "58e32024c4cc2843",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "计算机组成原理/1.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,6 +26,7 @@
       {
         "id": "10ee6448f9d959a7",
         "type": "tabs",
+        "dimension": 44.03669724770643,
         "children": [
           {
             "id": "d55c8fb6d85fb0de",
@@ -32,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "计算机组成原理/1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "计算机组成原理/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "计算机组成原理/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本命令 和 快捷键.md"
+                "file": "计算机组成原理/1.md"
               }
             }
           },
@@ -182,11 +184,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +202,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "7a9f140ee6c9e7b4",
   "lastOpenFiles": [
+    "基本命令 和 快捷键.md",
     "Docker.md",
     "计算机组成原理/1.md",
     "photo/Pasted image 20240729172951.png",
     "photo/Pasted image 20240729174823.png",
-    "基本命令 和 快捷键.md",
     "photo/Pasted image 20240731091902.png",
     "photo/Pasted image 20240730220503.png",
     "Pasted image 20240731091633.png",
