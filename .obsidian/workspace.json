@@ -6,7 +6,7 @@
       {
         "id": "97ec92849fcfd2cd",
         "type": "tabs",
-        "dimension": 53.952569169960476,
+        "dimension": 43.87277829747428,
         "children": [
           {
             "id": "6d9173f1f433df9a",
@@ -26,7 +26,7 @@
       {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
-        "dimension": 46.047430830039524,
+        "dimension": 56.12722170252572,
         "children": [
           {
             "id": "58e32024c4cc2843",
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +201,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "6d9173f1f433df9a",
   "lastOpenFiles": [
     "计算机组成原理/1.md",
     "Docker.md",

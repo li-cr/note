@@ -13,6 +13,9 @@ docker restart [OPTIONS] CONTAINER [CONTAINER...]
 docker kill [OPTIONS] CONTAINER [CONTAINER...]
 
 // 删除容器（rm） 镜像（rmi）
-docker rm [OPTIONS] CONTAINER [CONTAINER...]   docker rmi [OPTIONS] IMAGE [IMAGE...]
+docker rm [OPTIONS] CONTAINER [CONTAINER...]
+docker rmi [OPTIONS] IMAGE [IMAGE...]
 
+// 列出 配置信息(例如网络)
+docker inspect [OPTIONS] NAME|ID [NAME|ID...]
 ```
