@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "97ec92849fcfd2cd",
-        "type": "tabs",
-        "dimension": 43.87277829747428,
-        "children": [
-          {
-            "id": "6d9173f1f433df9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "327f5f83c0a2fbc6"
-          }
-        ]
-      },
-      {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
-        "dimension": 56.12722170252572,
         "children": [
           {
             "id": "58e32024c4cc2843",
@@ -34,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "基本命令 和 快捷键.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "8e5a329c10b2696e"
+          }
+        ]
+      },
+      {
+        "id": "10ee6448f9d959a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55c8fb6d85fb0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本命令 和 快捷键.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "327f5f83c0a2fbc6"
+            "group": "8e5a329c10b2696e"
           }
         ]
       }
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "基本命令 和 快捷键.md"
               }
             }
           },
@@ -201,14 +199,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6d9173f1f433df9a",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
-    "计算机组成原理/1.md",
     "Docker.md",
-    "photo/Pasted image 20240731091902.png",
+    "计算机组成原理/1.md",
+    "photo/Pasted image 20240729172951.png",
     "photo/Pasted image 20240729174823.png",
     "基本命令 和 快捷键.md",
-    "photo/Pasted image 20240729172951.png",
+    "photo/Pasted image 20240731091902.png",
     "photo/Pasted image 20240730220503.png",
     "Pasted image 20240731091633.png",
     "photo",
