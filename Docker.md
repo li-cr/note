@@ -9,6 +9,8 @@ docker ps [OPTIONS]
 docker stop [OPTIONS] CONTAINER [CONTAINER...]
 docker restart [OPTIONS] CONTAINER [CONTAINER...]
 docker kill [OPTIONS] CONTAINER [CONTAINER...]
-// 删除容器
+// 删除容器（rm） 镜像（rmi）
+docker rm [OPTIONS] CONTAINER [CONTAINER...]   docker rmi [OPTIONS] IMAGE [IMAGE...]
+
 
 ```

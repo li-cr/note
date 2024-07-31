@@ -6,7 +6,7 @@
       {
         "id": "97ec92849fcfd2cd",
         "type": "tabs",
-        "dimension": 52.96442687747036,
+        "dimension": 53.952569169960476,
         "children": [
           {
             "id": "6d9173f1f433df9a",
@@ -26,7 +26,7 @@
       {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
-        "dimension": 47.03557312252965,
+        "dimension": 46.047430830039524,
         "children": [
           {
             "id": "58e32024c4cc2843",
@@ -201,7 +201,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6d9173f1f433df9a",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
     "计算机组成原理/1.md",
     "Docker.md",
