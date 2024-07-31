@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/1.md"
+                "file": "基本命令 和 快捷键.md"
               }
             }
           },
@@ -199,11 +199,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "6d9173f1f433df9a",
   "lastOpenFiles": [
+    "Pasted image 20240730220503.png",
     "Docker.md",
-    "未命名/未命名.md",
+    "基本命令 和 快捷键.md",
     "计算机组成原理/1.md",
+    "未命名/未命名.md",
     "计算机组成原理/PNG/未命名.md",
     "计算机组成原理/PNG/Pasted image 20240729172951.png",
     "计算机组成原理/PNG/Pasted image 20240729174823.png",
