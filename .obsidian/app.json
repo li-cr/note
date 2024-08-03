@@ -14,5 +14,6 @@
   "useMarkdownLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "/photo",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
