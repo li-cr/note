@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -202,12 +202,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d55c8fb6d85fb0de",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
+    "计算机组成原理/1.md",
+    "zip/Logisim2.7.1.cn.zip",
+    "zip",
+    "新建文件夹",
     "Latex.md",
     "Docker.md",
     "基本命令 和 快捷键.md",
-    "计算机组成原理/1.md",
     "photo/Pasted image 20240803105258.png",
     "photo/Pasted image 20240803104748.png",
     "photo/Pasted image 20240729172951.png",
@@ -230,11 +233,8 @@
     "计算机组成原理/vx_notebook/notebook.db",
     "计算机组成原理/vx_notebook",
     "欢迎.md",
-    "计算机组成原理/PNG",
     "dd.md",
     "未命名 1.md",
-    "计算机组成原理",
-    "新建 TXT 文件.txt",
     "未命名 3.md",
     "未命名 2.md"
   ]
