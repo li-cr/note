@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/运算器设计.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/运算器设计.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/运算器设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/运算器设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/1.md"
+                "file": "计算机组成原理/运算器设计.md"
               }
             }
           },
@@ -204,7 +204,9 @@
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
     "计算机组成原理/0.md",
-    "计算机组成原理/1.md",
+    "计算机组成原理/运算器设计.md",
+    "计算机组成原理/计算机数据表示.md",
+    "计算机组成原理/file/2.circ",
     "计算机组成原理/file/1.circ",
     "计算机组成原理/file",
     "photo/Pasted image 20240803105258.png",
@@ -231,7 +233,6 @@
     "Pasted.md",
     "计算机组成原理/PNG/vx.json",
     "计算机组成原理/vx.json",
-    "计算机组成原理/vx_notebook/vx_notebook.json",
     "欢迎.md",
     "dd.md",
     "未命名 1.md",
