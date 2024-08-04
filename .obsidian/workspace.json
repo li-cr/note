@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/0.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/0.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/1.md",
+                "file": "计算机组成原理/0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/1.md"
+                "file": "计算机组成原理/0.md"
               }
             }
           },
@@ -201,10 +201,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "d55c8fb6d85fb0de",
   "lastOpenFiles": [
-    "计算机组成原理/0.md",
     "计算机组成原理/1.md",
+    "计算机组成原理/0.md",
     "计算机组成原理/file/1.circ",
     "计算机组成原理/file",
     "photo/Pasted image 20240803105258.png",
