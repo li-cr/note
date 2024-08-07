@@ -1,0 +1,8 @@
+/* 修改代码块中注释的颜色 */
+.markdown-preview-view pre code {
+    /* 针对代码块中的注释进行样式定义 */
+}
+
+.markdown-preview-view pre code span.cm-comment {
+    color: #e41105; /* 将颜色值替换为你喜欢的颜色 */
+}
