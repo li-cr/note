@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "WIFI.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "WIFI.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "WIFI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "WIFI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本命令 和 快捷键.md"
+                "file": "WIFI.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
-    "基本命令 和 快捷键.md",
     "WIFI.md",
+    "基本命令 和 快捷键.md",
     "Docker.md",
     "计算机组成原理/运算器设计.md",
     "计算机组成原理/0.md",
