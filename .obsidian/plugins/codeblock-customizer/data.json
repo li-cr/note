@@ -373,7 +373,7 @@
   "alternateHighlightColorName": "",
   "languageBorderColorName": "",
   "foldAllCommand": false,
-  "settingsType": "basic",
+  "settingsType": "languageSpecific",
   "langSpecificSettingsType": "",
   "languageSpecificLanguageName": ""
 }
