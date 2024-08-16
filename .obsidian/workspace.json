@@ -12,11 +12,10 @@
             "id": "58e32024c4cc2843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Latex.md",
-                "mode": "source",
-                "source": true
+                "staged": false
               }
             },
             "group": "8e5a329c10b2696e"
@@ -107,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Latex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,10 +198,10 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
+    "Latex.md",
     "Docker.md",
     "WIFI.md",
     "基本命令 和 快捷键.md",
-    "Latex.md",
     "未命名/未命名.md",
     "未命名",
     "计算机组成原理/zip/Logisim2.7.1.cn.zip",
