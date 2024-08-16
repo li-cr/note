@@ -12,10 +12,11 @@
             "id": "58e32024c4cc2843",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Latex.md",
-                "staged": false
+                "mode": "source",
+                "source": true
               }
             },
             "group": "8e5a329c10b2696e"
@@ -34,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "Latex.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -106,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Latex.md"
+              }
             }
           },
           {
@@ -183,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +202,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "d55c8fb6d85fb0de",
   "lastOpenFiles": [
     "Latex.md",
     "Docker.md",
