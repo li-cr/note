@@ -4,44 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7aa4d009adba26",
-        "type": "tabs",
-        "dimension": 49.330181245074876,
+        "id": "23ae0dd96271ae70",
+        "type": "split",
         "children": [
           {
-            "id": "58e32024c4cc2843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex.md",
-                "mode": "source",
-                "source": true
+            "id": "2d7aa4d009adba26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58e32024c4cc2843",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "8e5a329c10b2696e"
               }
-            },
-            "group": "8e5a329c10b2696e"
-          }
-        ]
-      },
-      {
-        "id": "10ee6448f9d959a7",
-        "type": "tabs",
-        "dimension": 50.669818754925124,
-        "children": [
+            ]
+          },
           {
-            "id": "d55c8fb6d85fb0de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex.md",
-                "mode": "preview",
-                "source": true
+            "id": "e8710752e7b508fb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d55c8fb6d85fb0de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "group": "8e5a329c10b2696e"
               }
-            },
-            "group": "8e5a329c10b2696e"
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -91,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a82ab65eec16749e",
@@ -107,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md"
               }
             }
           },
@@ -202,9 +208,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d55c8fb6d85fb0de",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
     "Latex.md",
+    "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+    "book",
     "Docker.md",
     "WIFI.md",
     "基本命令 和 快捷键.md",
@@ -229,7 +237,6 @@
     "note/计算机组成原理/运算器设计.md",
     "note/计算机组成原理/计算机数据表示.md",
     "note/计算机组成原理/zip/Logisim2.7.1.cn.zip",
-    "note/计算机组成原理/file/1.circ",
     "note/计算机组成原理/0.md",
     "note/未命名/未命名.md",
     "note/基本命令 和 快捷键.md",
