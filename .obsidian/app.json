@@ -15,5 +15,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "/photo",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": false
 }

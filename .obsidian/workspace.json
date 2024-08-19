@@ -4,49 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c0a6fbf73d1992",
-        "type": "split",
+        "id": "2d7aa4d009adba26",
+        "type": "tabs",
         "children": [
           {
-            "id": "2d7aa4d009adba26",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58e32024c4cc2843",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "fc537ff1472efe7b"
+            "id": "58e32024c4cc2843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本命令 和 快捷键.md",
+                "mode": "source",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "6b544a35a046d3c5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f6183bf5a3997c7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                },
-                "group": "fc537ff1472efe7b"
-              }
-            ]
+            },
+            "group": "fc537ff1472efe7b"
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "79e845c70ba72056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6183bf5a3997c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本命令 和 快捷键.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "fc537ff1472efe7b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a82ab65eec16749e",
@@ -113,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md"
+                "file": "基本命令 和 快捷键.md"
               }
             }
           },
@@ -211,9 +203,9 @@
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
     "Latex.md",
+    "Docker.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "book",
-    "Docker.md",
     "WIFI.md",
     "基本命令 和 快捷键.md",
     "未命名/未命名.md",
