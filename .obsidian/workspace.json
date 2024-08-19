@@ -4,40 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7aa4d009adba26",
-        "type": "tabs",
+        "id": "f7c0a6fbf73d1992",
+        "type": "split",
         "children": [
           {
-            "id": "58e32024c4cc2843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
-                "mode": "source",
-                "source": true
+            "id": "2d7aa4d009adba26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58e32024c4cc2843",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "fc537ff1472efe7b"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "29982e10040bc152",
-        "type": "tabs",
-        "children": [
+            ]
+          },
           {
-            "id": "d55c8fb6d85fb0de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
-                "mode": "preview",
-                "source": true
+            "id": "6b544a35a046d3c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8f6183bf5a3997c7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "book/上帝掷骰子吗？：量子物理史话（升级版).md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "group": "fc537ff1472efe7b"
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
