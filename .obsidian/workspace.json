@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "TMP.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "TMP.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "TMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本命令 和 快捷键.md"
+                "file": "TMP.md"
               }
             }
           },
@@ -204,10 +204,11 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
+    "基本命令 和 快捷键.md",
+    "TMP.md",
     "WIFI.md",
     "Latex.md",
     "Docker.md",
-    "基本命令 和 快捷键.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "book",
     "未命名/未命名.md",
@@ -248,7 +249,6 @@
     "2024-07-25.md",
     "Pasted.md",
     "欢迎.md",
-    "dd.md",
-    "未命名 1.md"
+    "dd.md"
   ]
 }
