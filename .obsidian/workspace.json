@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP.md",
+                "file": "好的网站.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP.md",
+                "file": "好的网站.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP.md",
+                "file": "好的网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP.md",
+                "file": "好的网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP.md"
+                "file": "好的网站.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
     "基本命令 和 快捷键.md",
+    "好的网站.md",
     "TMP.md",
     "WIFI.md",
     "Latex.md",
@@ -248,7 +249,6 @@
     "Github.md",
     "2024-07-25.md",
     "Pasted.md",
-    "欢迎.md",
-    "dd.md"
+    "欢迎.md"
   ]
 }
