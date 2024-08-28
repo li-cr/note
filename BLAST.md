@@ -1,7 +1,7 @@
 ```cpp file:"blast"
 // 建库：
-makeblastdb -in your_sequences.fasta -dbtype nucl -out my_blast_db
--dbtype = nucl(核酸序列) or prot(蛋白质序列)
+makeblastdb -in ${file.fasta} -dbtype nucl -out ${db_name}
+ -dbtype = nucl(核酸序列) or prot(蛋白质序列)
 // 注： 使用库时 需要 路径名 + 数据库名 
 
 // 检验：
