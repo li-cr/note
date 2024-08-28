@@ -8,7 +8,7 @@ makeblastdb -in ${file.fasta} -dbtype nucl -out ${db_name}
 blastdbcmd -info -db ${file_name}\${db_name}
 
 // 匹配
-tblastn -query protein.fasta -db ${file_name}\${db_name} -out ${results.txt} 
+tblastn -query  ${file.fasta} -db ${file_name}\${db_name} -out ${results.txt} 
 // 可添加参数 表明 匹配百分比， 默认并没有固定的匹配长度
 -qcov_hsp_perc 100
 // 控制结果展示的内容，默认为0；为1和6时展示了匹配的位置，其他还没看。
