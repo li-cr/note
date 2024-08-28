@@ -8,7 +8,7 @@ makeblastdb -in ${file.fasta} -dbtype nucl -out ${db_name}
 blastdbcmd -info -db ${file_name}\${db_name}
 
 // 匹配
-tblastn -query protein.fasta -db my_db\my_d -out results.txt -outfmt 6 -qcov_hsp_perc 100
+tblastn -query protein.fasta -db ${file_name}\${db_name} -out results.txt -outfmt 6 -qcov_hsp_perc 100
 -sorthits <Integer, (>=0 and =<4)>
    Sorting option for hits:
    alignment view options:

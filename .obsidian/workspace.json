@@ -6,7 +6,7 @@
       {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
-        "dimension": 28.101945003353457,
+        "dimension": 30.58350100603622,
         "children": [
           {
             "id": "58e32024c4cc2843",
@@ -26,7 +26,7 @@
       {
         "id": "79e845c70ba72056",
         "type": "tabs",
-        "dimension": 71.89805499664655,
+        "dimension": 69.41649899396378,
         "children": [
           {
             "id": "8f6183bf5a3997c7",
@@ -203,7 +203,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "8f6183bf5a3997c7",
   "lastOpenFiles": [
     "WIFI.md",
     "BLAST.md",
