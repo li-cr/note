@@ -6,6 +6,5 @@ makeblastdb -in your_sequences.fasta -dbtype nucl -out my_blast_db
 检验：
 blastdbcmd -info -db ${file_name}\${db_name}
 匹配
-tblastn -query protein.fasta -db my_db\my_d -out results.txt  -outfmt 6
-
+tblastn -query protein.fasta -db my_db\my_d -out results.txt -outfmt 6 -qcov_hsp_perc 100
 ```
