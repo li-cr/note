@@ -6,7 +6,7 @@
       {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
-        "dimension": 50.813323005422156,
+        "dimension": 53.059643687064295,
         "children": [
           {
             "id": "58e32024c4cc2843",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIFI.md",
+                "file": "BLAST.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "79e845c70ba72056",
         "type": "tabs",
-        "dimension": 49.186676994577844,
+        "dimension": 46.94035631293571,
         "children": [
           {
             "id": "8f6183bf5a3997c7",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIFI.md",
+                "file": "BLAST.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIFI.md",
+                "file": "BLAST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIFI.md",
+                "file": "BLAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIFI.md"
+                "file": "BLAST.md"
               }
             }
           },
@@ -204,12 +204,13 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
+    "WIFI.md",
+    "BLAST.md",
     "TMP.md",
     "Latex.md",
     "Docker.md",
     "好的网站.md",
     "基本命令 和 快捷键.md",
-    "WIFI.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "book",
     "未命名/未命名.md",
@@ -248,7 +249,6 @@
     "dawaw.md",
     "Github.md",
     "2024-07-25.md",
-    "Pasted.md",
-    "欢迎.md"
+    "Pasted.md"
   ]
 }
