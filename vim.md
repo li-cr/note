@@ -39,3 +39,9 @@
 +字母 替换当前字母 ** Type  rx  to replace the character at the cursor with  x . **
 # c
 +e 删除当前光标后的单词并进入插入模式 ** To change until the end of a word, type  ce . **
+# gg
+光标移动到文件头部
+# G 
+光标移动到文件末尾
+
+```
