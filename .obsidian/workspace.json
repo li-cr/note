@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md"
+                "file": "README.md"
               }
             }
           },
@@ -202,10 +202,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8f6183bf5a3997c7",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
-    "迟老师.md",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
+    "README.md",
+    "迟老师.md",
     "Docker.md",
     "基本命令 和 快捷键.md",
     "CNAME",
@@ -247,8 +248,6 @@
     "note/WIFI.md",
     "note/Latex.md",
     "note/Docker.md",
-    "计算机组成原理/PNG/未命名.md",
-    "README.md",
-    "dawaw.md"
+    "计算机组成原理/PNG/未命名.md"
   ]
 }
