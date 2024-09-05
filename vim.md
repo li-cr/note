@@ -16,19 +16,26 @@
 +w 删除单词 ** Type  dw  to delete a word. **
 +e 删除光标 
 +$ 删除整行 ** Type  d$  to delete to the end of the line. **
+{
+	d   motion
+	Where:
+	d      - is the delete operator.
+	motion - is what the operator will operate on (listed below).
+	
+	A short list of motions:
+	w - until the start of the next word, EXCLUDING its first character.
+	e - to the end of the current word, INCLUDING the last character.
+	$ - to the end of the line, INCLUDING the last character.
+	
+	1. Type  2w  to move the cursor two words forward.
+	2. Type  3e  to move the cursor to the end of the third word forward.
+	3. Type  0  (zero) to move to the start of the line.
+}
 
-d   motion
-Where:
-d      - is the delete operator.
-motion - is what the operator will operate on (listed below).
-
-A short list of motions:
-w - until the start of the next word, EXCLUDING its first character.
-e - to the end of the current word, INCLUDING the last character.
-$ - to the end of the line, INCLUDING the last character.
-
-1. Type  2w  to move the cursor two words forward.
-2. Type  3e  to move the cursor to the end of the third word forward.
-3. Type  0  (zero) to move to the start of the line.
-
+# p
+粘贴删除的数据 ** Type  p  to put previously deleted text after the cursor. **
+# r
++字母 替换当前字母 ** Type  rx  to replace the character at the cursor with  x . **
+# c
++e 删除当前光标后的单词并进入插入模式 ** To change until the end of a word, type  ce . **
 ```
