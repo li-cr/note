@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLAST.md",
-                "mode": "preview",
+                "file": "迟老师.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BLAST.md"
+                "file": "迟老师.md"
               }
             }
           },
@@ -204,18 +204,19 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
+    "vim.md",
+    "杂项/WIFI.md",
+    "杂项/TMP.md",
+    "基本命令 和 快捷键.md",
+    "杂项/BLAST.md",
+    "未命名/未命名.md",
+    "杂项",
     "Docker.md",
     "Latex.md",
-    "TMP.md",
-    "vim.md",
     "迟老师.md",
-    "BLAST.md",
-    "WIFI.md",
-    "好的网站.md",
-    "基本命令 和 快捷键.md",
+    "杂项/好的网站.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "book",
-    "未命名/未命名.md",
     "未命名",
     "计算机组成原理/zip/Logisim2.7.1.cn.zip",
     "计算机组成原理/file/2.circ",
@@ -235,7 +236,6 @@
     "photo",
     "note/计算机组成原理/运算器设计.md",
     "note/计算机组成原理/计算机数据表示.md",
-    "note/计算机组成原理/zip/Logisim2.7.1.cn.zip",
     "note/计算机组成原理/0.md",
     "note/未命名/未命名.md",
     "note/基本命令 和 快捷键.md",
@@ -248,7 +248,6 @@
     "note/Docker.md",
     "计算机组成原理/PNG/未命名.md",
     "README.md",
-    "dawaw.md",
-    "Github.md"
+    "dawaw.md"
   ]
 }
