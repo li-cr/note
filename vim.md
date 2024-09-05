@@ -5,6 +5,11 @@
 .....
 # u 
 撤回命令结果 ** Press  u  to undo the last commands,   U  to fix a whole line. **
+# U 
+撤回一整行结果 
+# ctrl+r
+撤回u/U命令的结果
+
 # A （区分大小写）
 行末追加 ** Press  A  to append text. **
 # d 
@@ -25,4 +30,5 @@ $ - to the end of the line, INCLUDING the last character.
 1. Type  2w  to move the cursor two words forward.
 2. Type  3e  to move the cursor to the end of the third word forward.
 3. Type  0  (zero) to move to the start of the line.
+
 ```
