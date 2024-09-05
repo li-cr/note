@@ -3,4 +3,7 @@
 _config.yml : 保存配置数据。<br>
 _site : 转换后的html文件。<br>
 _posts : 文章<br>
-.
+.....othres <br>
+
+_config.yml 配置选项：<br>
+source : DIR 
