@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BLAST.md",
+                "file": "迟老师.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BLAST.md"
+                "file": "迟老师.md"
               }
             }
           },
@@ -202,10 +202,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8f6183bf5a3997c7",
+  "active": "58e32024c4cc2843",
   "lastOpenFiles": [
-    "WIFI.md",
     "BLAST.md",
+    "迟老师.md",
+    "WIFI.md",
     "TMP.md",
     "Latex.md",
     "Docker.md",
@@ -248,7 +249,6 @@
     "README.md",
     "dawaw.md",
     "Github.md",
-    "2024-07-25.md",
-    "Pasted.md"
+    "2024-07-25.md"
   ]
 }

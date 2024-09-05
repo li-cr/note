@@ -16,5 +16,5 @@
   "attachmentFolderPath": "/photo",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "vimMode": false
+  "vimMode": true
 }
