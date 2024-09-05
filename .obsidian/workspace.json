@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "source",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迟老师.md"
+                "file": "基本命令 和 快捷键.md"
               }
             }
           },
@@ -204,6 +204,8 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
+    "迟老师.md",
+    "CNAME",
     "基本命令 和 快捷键.md",
     "Docker.md",
     "Latex.md",
@@ -211,7 +213,6 @@
     "杂项/好的网站.md",
     "杂项/BLAST.md",
     "杂项/TMP.md",
-    "迟老师.md",
     "杂项/vim.md",
     "未命名/未命名.md",
     "杂项",
@@ -233,7 +234,6 @@
     "photo/Pasted image 20240729172951.png",
     "photo/Pasted image 20240730220503.png",
     "photo/Pasted image 20240729174823.png",
-    "photo",
     "note/计算机组成原理/运算器设计.md",
     "note/计算机组成原理/计算机数据表示.md",
     "note/计算机组成原理/0.md",
