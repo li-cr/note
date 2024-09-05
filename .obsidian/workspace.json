@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
-                "mode": "source",
+                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迟老师.md",
+                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迟老师.md",
+                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迟老师.md"
+                "file": "杂项/使用 Jekyll 创建 GitHub Pages 站点.md"
               }
             }
           },
@@ -202,11 +202,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "8f6183bf5a3997c7",
   "lastOpenFiles": [
+    "迟老师.md",
+    "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "Docker.md",
     "基本命令 和 快捷键.md",
-    "迟老师.md",
     "CNAME",
     "Latex.md",
     "杂项/WIFI.md",
