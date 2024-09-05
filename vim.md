@@ -11,6 +11,8 @@
 撤回u/U命令的结果
 # CTRL+G
 显示文件信息 光标信息 
+# CTRL+U CTRL+D
+U向上半屏  D向下半屏
 # A （区分大小写）
 行末追加 ** Press  A  to append text. **
 # d 
