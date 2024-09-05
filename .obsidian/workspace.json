@@ -20,8 +20,21 @@
               }
             },
             "group": "fc537ff1472efe7b"
+          },
+          {
+            "id": "5b7cb3702fb46d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/jekyll.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "79e845c70ba72056",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OneDay/2024-09-05.md",
+                "file": "杂项/jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OneDay/2024-09-05.md",
+                "file": "杂项/jekyll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OneDay/2024-09-05.md"
+                "file": "杂项/jekyll.md"
               }
             }
           },
@@ -202,10 +215,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58e32024c4cc2843",
+  "active": "5b7cb3702fb46d81",
   "lastOpenFiles": [
-    "杂项/vim.md",
     "OneDay/2024-09-05.md",
+    "杂项/jekyll.md",
+    "杂项/vim.md",
     "README.md",
     "2024-W36.md",
     "OneDay",
@@ -213,7 +227,7 @@
     "新建文本文档.txt",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "迟老师.md",
-    "Docker.md",
+    "杂项/Docker.md",
     "基本命令 和 快捷键.md",
     "CNAME",
     "Latex.md",
@@ -248,7 +262,6 @@
     "note/photo/Pasted image 20240731091902.png",
     "note/photo/Pasted image 20240730220503.png",
     "note/WIFI.md",
-    "note/Latex.md",
-    "note/Docker.md"
+    "note/Latex.md"
   ]
 }
