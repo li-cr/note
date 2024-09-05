@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "vim.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "vim.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迟老师.md",
+                "file": "vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迟老师.md",
+                "file": "vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迟老师.md"
+                "file": "vim.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "58e32024c4cc2843",
   "lastOpenFiles": [
-    "BLAST.md",
     "迟老师.md",
+    "vim.md",
+    "BLAST.md",
     "WIFI.md",
     "TMP.md",
     "Latex.md",
@@ -248,7 +249,6 @@
     "计算机组成原理/PNG/未命名.md",
     "README.md",
     "dawaw.md",
-    "Github.md",
-    "2024-07-25.md"
+    "Github.md"
   ]
 }
