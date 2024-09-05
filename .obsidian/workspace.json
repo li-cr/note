@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OneDay/2024-09-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OneDay/2024-09-05.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OneDay/2024-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OneDay/2024-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OneDay/2024-09-05.md"
               }
             }
           },
@@ -204,7 +204,11 @@
   },
   "active": "8f6183bf5a3997c7",
   "lastOpenFiles": [
+    "杂项/vim.md",
+    "OneDay/2024-09-05.md",
     "README.md",
+    "2024-W36.md",
+    "OneDay",
     "_config.yml",
     "新建文本文档.txt",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
@@ -217,12 +221,10 @@
     "杂项/好的网站.md",
     "杂项/BLAST.md",
     "杂项/TMP.md",
-    "杂项/vim.md",
     "未命名/未命名.md",
     "杂项",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "book",
-    "未命名",
     "计算机组成原理/zip/Logisim2.7.1.cn.zip",
     "计算机组成原理/file/2.circ",
     "计算机组成原理/file/1.circ",
@@ -247,7 +249,6 @@
     "note/photo/Pasted image 20240730220503.png",
     "note/WIFI.md",
     "note/Latex.md",
-    "note/Docker.md",
-    "计算机组成原理/PNG/未命名.md"
+    "note/Docker.md"
   ]
 }
