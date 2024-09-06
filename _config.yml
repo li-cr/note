@@ -10,12 +10,8 @@ markdown: kramdown  # 确保支持Markdown格式
 
 # 包含文件和目录的设置（包括根目录下的文件）
 include:
-  - assets
-  - _posts
-  - _data
-  - _includes
-  - _layouts
-
+  - .
+  
 # 文件扩展名的设置，支持多种文件类型（Markdown、HTML等）
 collections:
   markdown:
