@@ -1,14 +1,23 @@
 ---
 layout: default
-title: 根目录文件展示
+title: 文件目录
 ---
 
-# 根目录文件列表
+# 目录和文件列表
 
 <ul>
-  {% for file in site.static_files %}
-    {% if file.path contains "/" %}
-      <li><a href="{{ file.path }}">{{ file.name }}</a></li>
-    {% endif %}
+  {% assign folders = site.static_files | where: "path", "/" %}
+  {% for folder in folders %}
+    <li>
+      <a href="{{ folder.path }}">{{ folder.name }}</a>
+      {% if folder.path contains "/" %}
+        <ul>
+          {% assign files = site.static_files | where: "path", folder.path %}
+          {% for file in files %}
+            <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
   {% endfor %}
 </ul>
