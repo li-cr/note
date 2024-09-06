@@ -10,7 +10,6 @@ markdown: kramdown  # 确保支持Markdown格式
 
 # 包含文件和目录的设置（包括根目录下的文件）
 include:
-  - .  # 包含根目录
   - assets
   - _posts
   - _data
