@@ -232,13 +232,14 @@
   },
   "active": "5b7cb3702fb46d81",
   "lastOpenFiles": [
+    "index.md",
+    "_config.yml",
     "OneDay/2024-09-05.md",
     "杂项/jekyll.md",
     "杂项/vim.md",
     "README.md",
     "2024-W36.md",
     "OneDay",
-    "_config.yml",
     "新建文本文档.txt",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "迟老师.md",
@@ -276,7 +277,6 @@
     "note/photo/Pasted image 20240803104748.png",
     "note/photo/Pasted image 20240731091902.png",
     "note/photo/Pasted image 20240730220503.png",
-    "note/WIFI.md",
-    "note/Latex.md"
+    "note/WIFI.md"
   ]
 }
