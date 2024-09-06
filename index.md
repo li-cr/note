@@ -1,0 +1,24 @@
+# _config.yml
+
+# 基础设置
+title: "展示根目录的文件"
+description: "自动生成根目录文件列表，并支持Markdown"
+
+
+# Markdown 支持
+markdown: kramdown  # 确保支持Markdown格式
+
+# 包含文件和目录的设置（包括根目录下的文件）
+include:
+  - .  # 包含根目录
+  - assets
+  - _posts
+  - _data
+  - _includes
+  - _layouts
+
+# 文件扩展名的设置，支持多种文件类型（Markdown、HTML等）
+collections:
+  markdown:
+    output: true
+    permalink: /:path/
