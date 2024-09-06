@@ -16,6 +16,9 @@ include:
   - _includes
   - _layouts
 
+plugins:
+  - _plugins
+
 # 文件扩展名的设置，支持多种文件类型（Markdown、HTML等）
 collections:
   markdown:
