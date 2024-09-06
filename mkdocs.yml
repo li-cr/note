@@ -9,3 +9,17 @@ extra_javascript:
 markdown_extensions:
   - pymdownx.arithmatex:  #数学公式
       generic: true
+  - codehilite:
+      guess_lang: false
+  - pymdownx.highlight:
+      use_pygments: false  # 是否使用 Pygments 进行语法高亮
+      use_pygments: true
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.arithmatex
+
+plugins:
+  - search
+  - my_extensions.multiple_docs_plugin
+
+docs_dir: 杂项
