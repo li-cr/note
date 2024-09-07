@@ -1,10 +1,12 @@
-site_name: My site
+site_name: lcr_note
 site_url: https://mydomain.org/mysite
+repo_url: https://github.com/li-cr/note
 theme:
   name: material
 
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
 
 markdown_extensions:
   - pymdownx.arithmatex:  #数学公式
@@ -20,6 +22,5 @@ markdown_extensions:
 
 plugins:
   - search
-  - my_extensions.multiple_docs_plugin
-
+  - a
 docs_dir: 杂项
