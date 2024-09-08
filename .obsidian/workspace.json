@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "6e86d2864036fdcd",
+    "id": "6d2f954a2840162d",
     "type": "split",
     "children": [
       {
-        "id": "2d7aa4d009adba26",
+        "id": "02cd081e11aa89ad",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdb9b95df8a3f28",
+            "id": "05c0c5ccb4810138",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": ",.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "c3e9e09de0f05acb"
-          }
-        ]
-      },
-      {
-        "id": "3e58c1efb552a506",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4753938e11aa355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": ",.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "c3e9e09de0f05acb"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -45,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "572f2150ec0641b1",
+    "id": "a105e42fb696d52e",
     "type": "split",
     "children": [
       {
-        "id": "850fb235daa6d684",
+        "id": "44dd36272c2487ae",
         "type": "tabs",
         "children": [
           {
-            "id": "02c0031159f1b9f2",
+            "id": "78cb159ddaa3e3b7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +39,12 @@
             }
           },
           {
-            "id": "4b7d7699b73782f4",
+            "id": "ff3e2fb88f54f406",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#703333dawda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +54,7 @@
             }
           },
           {
-            "id": "e05fba70e6cc60a4",
+            "id": "6f6b58ab20e08312",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,23 +65,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a82ab65eec16749e",
+    "id": "2854d861cc8c4c82",
     "type": "split",
     "children": [
       {
-        "id": "69b8f052fe68a1a8",
+        "id": "53a16fbd4bf01337",
         "type": "tabs",
         "children": [
           {
-            "id": "2edc0e5a07e97327",
+            "id": "34e060b094623236",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e6eba59813647df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": ",.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +100,18 @@
             }
           },
           {
-            "id": "7a9f140ee6c9e7b4",
+            "id": "8cf67e0678e26299",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": ",.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c674b776065eb600",
+            "id": "dd0e62f832948adc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,113 +122,31 @@
             }
           },
           {
-            "id": "ad4166bddb388f88",
+            "id": "453114f529cca14f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": ",.md"
-              }
-            }
-          },
-          {
-            "id": "bd4dad6c28c579a5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c3496b0ec28830fe",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e8af31c4865f4acc",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5cb947c3e3636e92",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "f4753938e11aa355",
-  "lastOpenFiles": [
-    "基本命令 和 快捷键.md",
-    ",.md",
-    "photo/Pasted image 20240730220503.png",
-    "photo/Pasted image 20240908203751.png",
-    "photo/Pasted image 20240908204454.png",
-    "photo/Pasted image 20240730220503.pnig.md",
-    "杂项/好的网站.md",
-    "OneDay/2024-09-05.md",
-    "OneDay",
-    "杂项/a.md",
-    "杂项/b.md",
-    "杂项/jekyll.md",
-    "index.md",
-    "_config.yml",
-    "杂项/vim.md",
-    "README.md",
-    "2024-W36.md",
-    "新建文本文档.txt",
-    "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
-    "迟老师.md",
-    "杂项/Docker.md",
-    "CNAME",
-    "Latex.md",
-    "杂项/WIFI.md",
-    "杂项/BLAST.md",
-    "杂项/TMP.md",
-    "未命名/未命名.md",
-    "杂项",
-    "book/上帝掷骰子吗？：量子物理史话（升级版).md",
-    "book",
-    "计算机组成原理/zip/Logisim2.7.1.cn.zip",
-    "计算机组成原理/file/2.circ",
-    "计算机组成原理/file/1.circ",
-    "计算机组成原理/计算机数据表示.md",
-    "计算机组成原理/运算器设计.md",
-    "计算机组成原理/zip",
-    "计算机组成原理/0.md",
-    "photo/Pasted image 20240803104748.png",
-    "photo/Pasted image 20240803105258.png",
-    "photo/Pasted image 20240731091902.png",
-    "photo/Pasted image 20240729172951.png",
-    "photo/Pasted image 20240729174823.png",
-    "note/计算机组成原理/运算器设计.md",
-    "note/计算机组成原理/计算机数据表示.md",
-    "note/photo/Pasted image 20240803105258.png",
-    "note/photo/Pasted image 20240803104748.png"
-  ]
+  "active": "05c0c5ccb4810138",
+  "lastOpenFiles": []
 }
