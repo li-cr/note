@@ -1,4 +1,5 @@
 {
   "things-style@@mobile-black-background": false,
-  "things-style@@link-external-decoration": "None"
+  "things-style@@link-external-decoration": "None",
+  "things-style@@link-decoration": "None"
 }
