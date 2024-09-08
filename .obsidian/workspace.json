@@ -6,70 +6,42 @@
       {
         "id": "2d7aa4d009adba26",
         "type": "tabs",
-        "dimension": 47.03429101019462,
+        "dimension": 45.27845036319613,
         "children": [
-          {
-            "id": "58e32024c4cc2843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OneDay/2024-09-05.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "fc537ff1472efe7b"
-          },
           {
             "id": "5b7cb3702fb46d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/好的网站.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "21072c224e891681"
+            "group": "5a9ec740e7e5d25b"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "79e845c70ba72056",
         "type": "tabs",
-        "dimension": 52.96570898980537,
+        "dimension": 54.72154963680388,
         "children": [
           {
-            "id": "8f6183bf5a3997c7",
+            "id": "dcd53a9e9ce1baf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneDay/2024-09-05.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "fc537ff1472efe7b"
-          },
-          {
-            "id": "93b18ccc957f9185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂项/好的网站.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "21072c224e891681"
+            "group": "5a9ec740e7e5d25b"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/好的网站.md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/好的网站.md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/好的网站.md"
+                "file": "基本命令 和 快捷键.md"
               }
             }
           },
@@ -230,25 +202,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5b7cb3702fb46d81",
+  "active": "dcd53a9e9ce1baf8",
   "lastOpenFiles": [
+    "photo/Pasted image 20240730220503.pnig.md",
+    "基本命令 和 快捷键.md",
+    "杂项/好的网站.md",
+    "OneDay/2024-09-05.md",
+    "OneDay",
+    "杂项/a.md",
+    "杂项/b.md",
     "杂项/jekyll.md",
     "index.md",
     "_config.yml",
-    "OneDay/2024-09-05.md",
     "杂项/vim.md",
     "README.md",
     "2024-W36.md",
-    "OneDay",
     "新建文本文档.txt",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "迟老师.md",
     "杂项/Docker.md",
-    "基本命令 和 快捷键.md",
     "CNAME",
     "Latex.md",
     "杂项/WIFI.md",
-    "杂项/好的网站.md",
     "杂项/BLAST.md",
     "杂项/TMP.md",
     "未命名/未命名.md",
@@ -271,12 +246,9 @@
     "note/计算机组成原理/运算器设计.md",
     "note/计算机组成原理/计算机数据表示.md",
     "note/计算机组成原理/0.md",
-    "note/未命名/未命名.md",
-    "note/基本命令 和 快捷键.md",
     "note/photo/Pasted image 20240803105258.png",
     "note/photo/Pasted image 20240803104748.png",
     "note/photo/Pasted image 20240731091902.png",
-    "note/photo/Pasted image 20240730220503.png",
-    "note/WIFI.md"
+    "note/photo/Pasted image 20240730220503.png"
   ]
 }
