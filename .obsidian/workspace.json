@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex.md",
+                "file": "杂项/TMP.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex.md",
+                "file": "杂项/TMP.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "杂项/TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "杂项/TMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "杂项/TMP.md"
               }
             }
           }
@@ -178,6 +178,7 @@
   "active": "05c0c5ccb4810138",
   "lastOpenFiles": [
     "README.md",
+    "Latex.md",
     "基本命令 和 快捷键.md",
     "迟老师.md",
     "杂项/jekyll.md",
@@ -188,7 +189,6 @@
     "杂项/好的网站.md",
     "杂项/BLAST.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
-    "Latex.md",
     "杂项/vim.md"
   ]
 }
