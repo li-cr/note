@@ -18,7 +18,12 @@ x = a_0 + \cfrac{1^2}{a_1
 公式换行 ： \\\ <br>
 公式空格：$D\,D\;D\quad D\qquad D$ <br>
 因为所以：$\because \quad \therefore$ <br>
-$\leqslant  dawd\\
-\texttt{n>>i}$
-
-$x=1 \\y=1$
+$
+\begin{equation} 
+\begin{aligned} 
+\texttt{\\leqslant}         :&\leqslant  \\ 
+\texttt{\\texttt\{n>>i\}}:& \;\texttt{n>>i} \\
+\texttt{\\because \\quad \\therefore} &:\; \because \quad \therefore \\
+\end{aligned} 
+\end{equation}
+$
