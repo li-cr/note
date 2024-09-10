@@ -15,3 +15,6 @@ A &= \frac{\pi r^2}{2} \\
 \end{equation}
 $
 ```
+
+公式换行 ： \\\ <br>
+公式空格：$D\,D\;D\quad D\qquad D$
