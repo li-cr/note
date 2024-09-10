@@ -7,12 +7,14 @@ A &= \frac{\pi r^2}{2} \\
 \end{equation}
 $
 
-公式换行 ： \\\ <br>
-公式空格：$D\,D\;D\quad D\qquad D$ <br>
+
 连分数：$$  
 x = a_0 + \cfrac{1^2}{a_1   
 		+ \cfrac{2^2}{a_2   
 		+ \cfrac{3^2}{a_3   
 		+ \cfrac{4^4}{a_4   
-		+ \cdots}}}}  
-$$
+		+ \cdots}}}}  $$
+		+ 
+公式换行 ： \\\ <br>
+公式空格：$D\,D\;D\quad D\qquad D$ <br>
+因为所以：$\because \quad \therefore$
