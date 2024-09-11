@@ -6,7 +6,7 @@
       {
         "id": "02cd081e11aa89ad",
         "type": "tabs",
-        "dimension": 50.297619047619044,
+        "dimension": 60.961098398169334,
         "children": [
           {
             "id": "05c0c5ccb4810138",
@@ -26,7 +26,7 @@
       {
         "id": "c1af46aed15101c0",
         "type": "tabs",
-        "dimension": 49.702380952380956,
+        "dimension": 39.03890160183066,
         "children": [
           {
             "id": "5eed5835a70a74ed",
@@ -192,6 +192,8 @@
   },
   "active": "05c0c5ccb4810138",
   "lastOpenFiles": [
+    "photo/Pasted image 20240911224418.png",
+    "photo/Pasted image 20240911224325.png",
     "photo/Pasted image 20240911223002.png",
     "README.md",
     "模式识别/贝叶斯决策.md",
