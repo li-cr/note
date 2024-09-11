@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "Latex.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,27 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
-                "mode": "source",
+                "file": "Latex.md",
+                "mode": "preview",
                 "source": true
               }
             },
             "group": "4693ee499184ca6a"
-          },
-          {
-            "id": "a55e215c658335d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模式识别/贝叶斯决策.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/贝叶斯决策.md"
+                "file": "Latex.md"
               }
             }
           }
@@ -190,8 +177,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c0c5ccb4810138",
+  "active": "5eed5835a70a74ed",
   "lastOpenFiles": [
+    "模式识别/贝叶斯决策.md",
+    "Latex.md",
     "photo/Pasted image 20240911230333.png",
     "photo/Pasted image 20240911225824.png",
     "photo/Pasted image 20240911224608.png",
@@ -201,13 +190,11 @@
     "photo/Pasted image 20240911224325.png",
     "photo/Pasted image 20240911223002.png",
     "README.md",
-    "模式识别/贝叶斯决策.md",
     "模式识别",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "m",
     "1_problemst.pdf",
     "杂项/TMP.md",
-    "Latex.md",
     "基本命令 和 快捷键.md",
     "迟老师.md",
     "杂项/jekyll.md",
