@@ -177,10 +177,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "453114f529cca14f",
+  "active": "5eed5835a70a74ed",
   "lastOpenFiles": [
-    "Latex.md",
+    "杂项/好的网站.md",
     "模式识别/贝叶斯决策.md",
+    "Latex.md",
     "photo/Pasted image 20240911230333.png",
     "photo/Pasted image 20240911225824.png",
     "photo/Pasted image 20240911224608.png",
@@ -200,7 +201,6 @@
     "杂项/jekyll.md",
     "杂项/WIFI.md",
     "杂项/Docker.md",
-    "杂项/好的网站.md",
     "杂项/BLAST.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "杂项/vim.md"
