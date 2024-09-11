@@ -6,6 +6,7 @@
       {
         "id": "02cd081e11aa89ad",
         "type": "tabs",
+        "dimension": 50.297619047619044,
         "children": [
           {
             "id": "05c0c5ccb4810138",
@@ -25,6 +26,7 @@
       {
         "id": "c1af46aed15101c0",
         "type": "tabs",
+        "dimension": 49.702380952380956,
         "children": [
           {
             "id": "5eed5835a70a74ed",
@@ -46,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "模式识别/贝叶斯决策.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -102,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 259.5
   },
   "right": {
     "id": "2854d861cc8c4c82",
