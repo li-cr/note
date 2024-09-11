@@ -18,11 +18,11 @@ x = a_0 + \cfrac{1^2}{a_1
 $$
 \begin{equation} 
 \begin{aligned} 
-\texttt{\\leqslant}         :&\leqslant  \\ 
-\texttt{\\texttt\{n>>i\}}:& \;\texttt{n>>i} \\
-\texttt{\\because \\quad \\therefore} :&\; \because \quad \therefore \\
-\texttt{\\,\\;\\quad \\qquad } :&\; D\,D\;D\quad D\qquad D \\
-
+\texttt{\\leqslant}         :&\quad\leqslant  \\ 
+\texttt{\\texttt\{n>>i\}}             :&\quad\texttt{n>>i} \\
+\texttt{\\because \\quad \\therefore} :&\quad \because \quad \therefore \\
+\texttt{\\,\\;\\quad \\qquad }:&\quad D\,D\;D\quad D\qquad D \\
+\texttt{\\alpha \\omega \\beta \\lambda}  :&\quad \alpha \;\omega \;\beta \;\lambda\\
 \end{aligned} 
 \end{equation}
 $$
