@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex.md",
+                "file": "模式识别/贝叶斯决策.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex.md",
+                "file": "模式识别/贝叶斯决策.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "模式识别/贝叶斯决策.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "模式识别/贝叶斯决策.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,16 +155,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "模式识别/贝叶斯决策.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +177,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c0c5ccb4810138",
+  "active": "453114f529cca14f",
   "lastOpenFiles": [
-    "模式识别/贝叶斯决策.md",
     "Latex.md",
+    "模式识别/贝叶斯决策.md",
     "photo/Pasted image 20240911230333.png",
     "photo/Pasted image 20240911225824.png",
     "photo/Pasted image 20240911224608.png",
