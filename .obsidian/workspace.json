@@ -6,7 +6,7 @@
       {
         "id": "02cd081e11aa89ad",
         "type": "tabs",
-        "dimension": 48.73765093304062,
+        "dimension": 50.98452883263009,
         "children": [
           {
             "id": "05c0c5ccb4810138",
@@ -26,7 +26,7 @@
       {
         "id": "c1af46aed15101c0",
         "type": "tabs",
-        "dimension": 51.26234906695939,
+        "dimension": 49.0154711673699,
         "children": [
           {
             "id": "5eed5835a70a74ed",
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2854d861cc8c4c82",
@@ -177,9 +176,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34e060b094623236",
+  "active": "05c0c5ccb4810138",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "迟老师.md",
     "模式识别/贝叶斯决策.md",
+    "2024-09-16.md",
     "photo/Pasted image 20240911235542.png",
     "Latex.md",
     "杂项/好的网站.md",
@@ -198,7 +200,6 @@
     "1_problemst.pdf",
     "杂项/TMP.md",
     "基本命令 和 快捷键.md",
-    "迟老师.md",
     "杂项/jekyll.md",
     "杂项/WIFI.md",
     "杂项/Docker.md",
