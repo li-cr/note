@@ -6,7 +6,7 @@
       {
         "id": "02cd081e11aa89ad",
         "type": "tabs",
-        "dimension": 60.961098398169334,
+        "dimension": 48.73765093304062,
         "children": [
           {
             "id": "05c0c5ccb4810138",
@@ -26,7 +26,7 @@
       {
         "id": "c1af46aed15101c0",
         "type": "tabs",
-        "dimension": 39.03890160183066,
+        "dimension": 51.26234906695939,
         "children": [
           {
             "id": "5eed5835a70a74ed",
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2854d861cc8c4c82",
@@ -159,13 +160,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +177,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "453114f529cca14f",
+  "active": "34e060b094623236",
   "lastOpenFiles": [
     "模式识别/贝叶斯决策.md",
     "photo/Pasted image 20240911235542.png",
