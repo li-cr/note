@@ -6,7 +6,7 @@
       {
         "id": "02cd081e11aa89ad",
         "type": "tabs",
-        "dimension": 50.98452883263009,
+        "dimension": 50.9845288326301,
         "children": [
           {
             "id": "05c0c5ccb4810138",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "Latex.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "Latex.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迟老师.md",
+                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迟老师.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,31 +155,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迟老师.md"
+                "file": "Latex.md"
               }
             }
+          },
+          {
+            "id": "bca6b1efb2c3c471",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "05c0c5ccb4810138",
+  "active": "5eed5835a70a74ed",
   "lastOpenFiles": [
-    "未命名.canvas",
     "迟老师.md",
+    "未命名.canvas",
     "模式识别/贝叶斯决策.md",
     "2024-09-16.md",
     "photo/Pasted image 20240911235542.png",

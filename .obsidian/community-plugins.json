@@ -2,10 +2,10 @@
   "calendar",
   "obsidian-outliner",
   "quick-latex",
-  "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-git",
   "obsidian-style-settings",
   "codeblock-customizer",
   "obsidian-vimrc-support",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]
