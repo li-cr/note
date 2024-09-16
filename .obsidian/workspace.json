@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "迟老师.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "迟老师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "迟老师.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本命令 和 快捷键.md"
+                "file": "迟老师.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "05c0c5ccb4810138",
   "lastOpenFiles": [
+    "基本命令 和 快捷键.md",
     "迟老师.md",
     "Latex.md",
     "未命名.canvas",
@@ -188,7 +189,6 @@
     "m",
     "1_problemst.pdf",
     "杂项/TMP.md",
-    "基本命令 和 快捷键.md",
     "杂项/jekyll.md",
     "杂项/WIFI.md",
     "杂项/Docker.md",
