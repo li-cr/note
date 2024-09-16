@@ -6,7 +6,7 @@
       {
         "id": "02cd081e11aa89ad",
         "type": "tabs",
-        "dimension": 50.9845288326301,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "05c0c5ccb4810138",
@@ -14,32 +14,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "4693ee499184ca6a"
-          }
-        ]
-      },
-      {
-        "id": "c1af46aed15101c0",
-        "type": "tabs",
-        "dimension": 49.0154711673699,
-        "children": [
-          {
-            "id": "5eed5835a70a74ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "迟老师.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "4693ee499184ca6a"
+            }
           }
         ]
       }
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迟老师.md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迟老师.md"
+                "file": "基本命令 和 快捷键.md"
               }
             }
           },
@@ -188,8 +167,8 @@
   },
   "active": "05c0c5ccb4810138",
   "lastOpenFiles": [
-    "Latex.md",
     "迟老师.md",
+    "Latex.md",
     "未命名.canvas",
     "模式识别/贝叶斯决策.md",
     "2024-09-16.md",
