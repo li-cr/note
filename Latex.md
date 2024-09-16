@@ -15,7 +15,9 @@ x = a_0 + \cfrac{1^2}{a_1
 		+ \cfrac{4^4}{a_4   
 		+ \cdots}}}}  $$
 公式换行 ： \\\ <br>
-公式内字母加粗：$\pmb{dawd}$
+公式内字母加粗：$\pmb{dawd}$ <br>
+$\pm$
+
 $$
 \begin{equation} 
 \begin{aligned} 
