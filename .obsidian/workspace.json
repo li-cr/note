@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05c0c5ccb4810138",
+  "active": "453114f529cca14f",
   "lastOpenFiles": [
     "模式识别/贝叶斯决策.md",
     "photo/Pasted image 20240911235542.png",
