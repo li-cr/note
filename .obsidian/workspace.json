@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02cd081e11aa89ad",
+        "id": "2cdf3e8ea56d671f",
         "type": "tabs",
         "children": [
           {
-            "id": "05c0c5ccb4810138",
+            "id": "d3c97f0ec13d4b31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "05c0c5ccb4810138",
+  "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "基本命令 和 快捷键.md",
     "迟老师.md",
+    "基本命令 和 快捷键.md",
     "Latex.md",
     "未命名.canvas",
     "模式识别/贝叶斯决策.md",
