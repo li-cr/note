@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "模式识别/贝叶斯决策.md",
+                    "file": "Latex.md",
                     "mode": "source",
                     "source": true
                   }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "Latex.md",
                 "mode": "preview",
                 "source": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/贝叶斯决策.md"
+                "file": "Latex.md"
               }
             }
           },
@@ -208,8 +208,8 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "photo/Pasted image 20240911224559.png",
     "模式识别/贝叶斯决策.md",
+    "photo/Pasted image 20240911224559.png",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "模式识别/UCAS_模式识别＿01＿绪论.pdf",
     "模式识别/~$UCAS_模式识别＿02＿贝叶斯决策.ppt",

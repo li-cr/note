@@ -29,6 +29,7 @@ $$
 \texttt{\\cdotp \\dots \\cdots \\vdots \\ddots}  :&\quad \cdotp\; \dots \;\cdots \;\vdots \;\ddots\\
 
 \texttt{\\alpha \\omega \\beta \\lambda}  :&\quad \dots \;\cdots \;\vdots \;\ddots\\
-\end{aligned} 
+\end{aligned} \\
 \end{equation}
+字体大小
 $$
