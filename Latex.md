@@ -29,7 +29,23 @@ $$
 \texttt{\\cdotp \\dots \\cdots \\vdots \\ddots}  :&\quad \cdotp\; \dots \;\cdots \;\vdots \;\ddots\\
 
 \texttt{\\alpha \\omega \\beta \\lambda}  :&\quad \dots \;\cdots \;\vdots \;\ddots\\
-\end{aligned} \\
+\end{aligned} 
 \end{equation}
-字体大小
+$$
+<br>
+
+$$
+\begin{equation} 
+\begin{aligned} 
+\texttt{\\Huge}         :& \Huge{Text}  \\ 
+\texttt{\\Huge}         :& \huge{Text}  \\
+\texttt{\\Huge}         :& \LARGE{Text}  \\
+\texttt{\\Huge}         :& \Large{Text}  \\
+\texttt{\\Huge}         :& \large{Text}  \\
+\texttt{\\Huge}         :& \normalsize{Text}  \\
+\texttt{\\Huge}         :& \footnotesize{Text}  \\
+\texttt{\\scriptsize}         :& \scriptsize{Text}  \\
+\texttt{\\tiny}         :& \tiny{Text}  \\
+\end{aligned} 
+\end{equation}
 $$
