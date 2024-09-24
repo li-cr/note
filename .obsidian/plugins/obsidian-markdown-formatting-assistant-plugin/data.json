@@ -2,8 +2,8 @@
   "triggerChar": "\\",
   "sidePaneSideLeft": false,
   "savedColors": [
-    "#ff0000",
-    "#3f0e0e"
+    "#3f0e0e",
+    "#ff0000"
   ],
   "aviabileRegions": [
     "textEdit",
@@ -23,7 +23,7 @@
     {
       "name": "tables",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "html",
