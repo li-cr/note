@@ -37,15 +37,15 @@ $$
 $$
 \begin{equation} 
 \begin{aligned} 
-\texttt{\\Huge}         :& \Huge{Text}  \\ 
-\texttt{\\Huge}         :& \huge{Text}  \\
-\texttt{\\Huge}         :& \LARGE{Text}  \\
-\texttt{\\Huge}         :& \Large{Text}  \\
-\texttt{\\Huge}         :& \large{Text}  \\
-\texttt{\\Huge}         :& \normalsize{Text}  \\
-\texttt{\\Huge}         :& \footnotesize{Text}  \\
-\texttt{\\scriptsize}         :& \scriptsize{Text}  \\
-\texttt{\\tiny}         :& \tiny{Text}  \\
+\texttt{\\Huge}         :&\quad \Huge{Text}  \\ 
+\texttt{\\huge}         :&\quad \huge{Text}  \\
+\texttt{\\LARGE}         :&\quad \LARGE{Text}  \\
+\texttt{\\Large}         :&\quad \Large{Text}  \\
+\texttt{\\large}         :&\quad \large{Text}  \\
+\texttt{\\normalsize}         :&\quad \normalsize{Text}  \\
+\texttt{\\footnotesize}         :&\quad \footnotesize{Text}  \\
+\texttt{\\scriptsize}         :&\quad \scriptsize{Text}  \\
+\texttt{\\tiny}         :&\quad \tiny{Text}  \\
 \end{aligned} 
 \end{equation}
 $$
