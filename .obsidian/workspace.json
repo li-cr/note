@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/贝叶斯决策.md"
+                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
               }
             }
           }
@@ -206,10 +206,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "169d1a6eb0481279",
   "lastOpenFiles": [
-    "Latex.md",
     "模式识别/贝叶斯决策.md",
+    "Latex.md",
     "模式识别/UCAS_模式识别＿01＿绪论.pdf",
     "README.md",
     "photo/Pasted image 20240927173156.png",
