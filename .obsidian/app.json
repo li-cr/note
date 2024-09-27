@@ -16,5 +16,6 @@
   "attachmentFolderPath": "/photo",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "vimMode": true
+  "vimMode": true,
+  "autoPairMarkdown": true
 }
