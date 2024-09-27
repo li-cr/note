@@ -171,16 +171,6 @@
             }
           },
           {
-            "id": "453114f529cca14f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
             "id": "bca6b1efb2c3c471",
             "type": "leaf",
             "state": {
@@ -188,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,11 +195,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "2f57ba8ba8f94004",
   "lastOpenFiles": [
+    "模式识别/贝叶斯决策.md",
+    "README.md",
     "photo/Pasted image 20240927173156.png",
     "photo/Pasted image 20240927172646.png",
-    "模式识别/贝叶斯决策.md",
     "基本命令 和 快捷键.md",
     "未命名.canvas",
     "Latex.md",
@@ -233,8 +223,6 @@
     "photo/Pasted image 20240911224608.png",
     "photo/Pasted image 20240911224528.png",
     "photo/Pasted image 20240911224418.png",
-    "photo/Pasted image 20240911224325.png",
-    "README.md",
     "模式识别",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "m",
