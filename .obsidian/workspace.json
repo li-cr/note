@@ -177,6 +177,16 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "d523e6c82f64b0cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模式识别/贝叶斯决策.md"
+              }
+            }
           }
         ]
       }
