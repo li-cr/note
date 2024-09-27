@@ -29,6 +29,8 @@ $$
 \texttt{\\cdotp \\dots \\cdots \\vdots \\ddots}  :&\quad \cdotp\; \dots \;\cdots \;\vdots \;\ddots\\
 
 \texttt{\\alpha \\omega \\beta \\lambda}  :&\quad \dots \;\cdots \;\vdots \;\ddots\\
+
+\texttt{\\rm} :&\quad reject \quad\rm{reject}
 \end{aligned} 
 \end{equation}
 $$
