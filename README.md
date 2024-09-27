@@ -1,2 +1,3 @@
 LCR_note. for life study ? maybe.
-jijijiijj
+
+前叉 ： 锁死。
