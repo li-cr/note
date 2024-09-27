@@ -1,11 +1,11 @@
 [
   "calendar",
   "obsidian-outliner",
-  "quick-latex",
   "obsidian-git",
   "obsidian-style-settings",
   "codeblock-customizer",
   "obsidian-vimrc-support",
   "obsidian-hover-editor",
-  "obsidian-markdown-formatting-assistant-plugin"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "quick-latex"
 ]
