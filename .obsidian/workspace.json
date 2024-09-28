@@ -11,7 +11,7 @@
           {
             "id": "2cdf3e8ea56d671f",
             "type": "tabs",
-            "dimension": 63.74999999999999,
+            "dimension": 79.02777777777777,
             "children": [
               {
                 "id": "d3c97f0ec13d4b31",
@@ -31,7 +31,7 @@
           {
             "id": "4e46af25f07d08fc",
             "type": "tabs",
-            "dimension": 36.25,
+            "dimension": 20.97222222222222,
             "children": [
               {
                 "id": "169d1a6eb0481279",
@@ -210,8 +210,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bca6b1efb2c3c471",
+  "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
+    "photo/Pasted image 20240928131936.png",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "模式识别/贝叶斯决策.md",
     "Latex.md",
