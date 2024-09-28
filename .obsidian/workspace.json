@@ -11,7 +11,7 @@
           {
             "id": "2cdf3e8ea56d671f",
             "type": "tabs",
-            "dimension": 79.02777777777777,
+            "dimension": 49.09722222222222,
             "children": [
               {
                 "id": "d3c97f0ec13d4b31",
@@ -31,7 +31,7 @@
           {
             "id": "4e46af25f07d08fc",
             "type": "tabs",
-            "dimension": 20.97222222222222,
+            "dimension": 50.90277777777777,
             "children": [
               {
                 "id": "169d1a6eb0481279",
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
+                    "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
                   }
                 }
               }
@@ -212,9 +212,10 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "photo/Pasted image 20240928131936.png",
+    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "模式识别/贝叶斯决策.md",
+    "photo/Pasted image 20240928131936.png",
     "Latex.md",
     "photo/Pasted image 20240927230929.png",
     "模式识别/UCAS_模式识别＿01＿绪论.pdf",
@@ -229,7 +230,6 @@
     "模式识别/mso8C9D.tmp",
     "模式识别/mso5FFE.tmp",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
-    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.ppt",
     "迟老师.md",
     "2024-09-16.md",
@@ -238,7 +238,6 @@
     "photo/Pasted image 20240911230333.png",
     "photo/Pasted image 20240911225824.png",
     "photo/Pasted image 20240911224608.png",
-    "photo/Pasted image 20240911224528.png",
     "模式识别",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "m",
