@@ -2,8 +2,10 @@
   "triggerChar": "\\",
   "sidePaneSideLeft": false,
   "savedColors": [
+    "#ff0000",
     "#3f0e0e",
-    "#ff0000"
+    "#ff6666",
+    "#a33333"
   ],
   "aviabileRegions": [
     "textEdit",
