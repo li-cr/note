@@ -4,69 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "e55039aacec0dd4c",
+        "id": "259be19fc032fb11",
         "type": "split",
-        "dimension": 50.73710073710074,
         "children": [
           {
-            "id": "2cdf3e8ea56d671f",
-            "type": "tabs",
-            "dimension": 49.09722222222222,
+            "id": "f201648fbf3b8ac8",
+            "type": "split",
+            "dimension": 52.84090909090909,
             "children": [
               {
-                "id": "d3c97f0ec13d4b31",
+                "id": "2cdf3e8ea56d671f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d3c97f0ec13d4b31",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "模式识别/概率密度估计.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    },
+                    "group": "2bd8ee925712234d"
+                  }
+                ]
+              },
+              {
+                "id": "9ed5757998209560",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "169d1a6eb0481279",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "23e8c6f220895da0",
+            "type": "tabs",
+            "dimension": 47.159090909090914,
+            "children": [
+              {
+                "id": "3b0a75c47a4dc9ee",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Latex.md",
-                    "mode": "source",
+                    "file": "模式识别/概率密度估计.md",
+                    "mode": "preview",
                     "source": true
                   }
                 },
-                "group": "e24beedb2c593cac"
-              }
-            ]
-          },
-          {
-            "id": "4e46af25f07d08fc",
-            "type": "tabs",
-            "dimension": 50.90277777777778,
-            "children": [
-              {
-                "id": "169d1a6eb0481279",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
-                  }
-                }
+                "group": "2bd8ee925712234d"
               }
             ]
           }
         ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "c13a5d5357bfb026",
-        "type": "tabs",
-        "dimension": 49.26289926289926,
-        "children": [
-          {
-            "id": "2f57ba8ba8f94004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "e24beedb2c593cac"
-          }
-        ]
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -140,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex.md",
+                "file": "模式识别/概率密度估计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex.md",
+                "file": "模式识别/概率密度估计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex.md"
+                "file": "模式识别/概率密度估计.md"
               }
             }
           }
@@ -210,14 +215,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "3b0a75c47a4dc9ee",
   "lastOpenFiles": [
+    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/概率密度估计.md",
     "Latex.md",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "模式识别/贝叶斯决策理论.md",
     "基本命令 和 快捷键.md",
-    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "photo/Pasted image 20240928131936.png",
     "photo/Pasted image 20240927230929.png",

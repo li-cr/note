@@ -21,7 +21,7 @@ $\pm$
 $$
 \begin{equation} 
 \begin{aligned} 
-\texttt{\\hat{\theta}}      :&\quad \\
+\texttt{\\hat\{\\theta\}}      :&\quad \hat{\theta}\\
 \texttt{\\leqslant}         :&\quad\leqslant  \\ 
 \texttt{\\texttt\{n>>i\}}             :&\quad\texttt{n>>i} \\
 \texttt{\\because \\quad \\therefore} :&\quad \because \quad \therefore \\
