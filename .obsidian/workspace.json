@@ -17,9 +17,11 @@
                 "id": "d3c97f0ec13d4b31",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
+                    "file": "模式识别/概率密度估计.md",
+                    "mode": "source",
+                    "source": true
                   }
                 },
                 "group": "e24beedb2c593cac"
@@ -55,9 +57,11 @@
             "id": "2f57ba8ba8f94004",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
+                "file": "模式识别/概率密度估计.md",
+                "mode": "preview",
+                "source": true
               }
             },
             "group": "e24beedb2c593cac"
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+                "file": "模式识别/概率密度估计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+                "file": "模式识别/概率密度估计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
+                "file": "模式识别/概率密度估计.md"
               }
             }
           }
@@ -208,6 +212,7 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
+    "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "模式识别/概率密度估计.md",
     "模式识别/贝叶斯决策理论.md",
     "基本命令 和 快捷键.md",
@@ -226,7 +231,6 @@
     "模式识别/~$UCAS_模式识别＿02＿贝叶斯决策.ppt",
     "模式识别/mso8C9D.tmp",
     "模式识别/mso5FFE.tmp",
-    "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.ppt",
     "迟老师.md",
     "2024-09-16.md",
