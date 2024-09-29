@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "模式识别/贝叶斯决策.md",
+                    "file": "模式识别/未命名.md",
                     "mode": "source",
                     "source": true
                   }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "模式识别/未命名.md",
                 "mode": "preview",
                 "source": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "模式识别/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/贝叶斯决策.md",
+                "file": "模式识别/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/贝叶斯决策.md"
+                "file": "模式识别/未命名.md"
               }
             }
           }
@@ -212,9 +212,10 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
+    "模式识别/贝叶斯决策.md",
+    "模式识别/未命名.md",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
-    "模式识别/贝叶斯决策.md",
     "photo/Pasted image 20240928131936.png",
     "Latex.md",
     "photo/Pasted image 20240927230929.png",
