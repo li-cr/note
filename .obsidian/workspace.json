@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "杂项/BLAST.md",
+                        "file": "模式识别/概率密度估计.md",
                         "mode": "source",
                         "source": true
                       }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "杂项/BLAST.md",
+                    "file": "模式识别/概率密度估计.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/BLAST.md",
+                "file": "模式识别/概率密度估计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/BLAST.md",
+                "file": "模式识别/概率密度估计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/BLAST.md"
+                "file": "模式识别/概率密度估计.md"
               }
             }
           }
@@ -218,12 +218,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "48290234f5094972",
+  "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
+    "杂项/BLAST.md",
     "模式识别/概率密度估计.md",
     "模式识别/贝叶斯决策理论.md",
     "Latex.md",
-    "杂项/BLAST.md",
     "基本命令 和 快捷键.md",
     "基本命令 和 快捷键.pdf",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
