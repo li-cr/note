@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "基本命令 和 快捷键.md",
+                        "file": "杂项/BLAST.md",
                         "mode": "source",
                         "source": true
                       }
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "基本命令 和 快捷键.md",
+                    "file": "杂项/BLAST.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "杂项/BLAST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "杂项/BLAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本命令 和 快捷键.md"
+                "file": "杂项/BLAST.md"
               }
             }
           }
@@ -217,8 +217,8 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "模式识别/概率密度估计.md",
     "基本命令 和 快捷键.md",
+    "模式识别/概率密度估计.md",
     "Latex.md",
     "基本命令 和 快捷键.pdf",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
