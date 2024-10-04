@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "杂项/BLAST.md",
+                        "file": "Latex.md",
                         "mode": "source",
                         "source": true
                       }
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "杂项/BLAST.md",
+                    "file": "Latex.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/BLAST.md",
+                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/BLAST.md",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/BLAST.md"
+                "file": "Latex.md"
               }
             }
           }
@@ -215,8 +215,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "3b0a75c47a4dc9ee",
   "lastOpenFiles": [
+    "杂项/BLAST.md",
     "基本命令 和 快捷键.md",
     "模式识别/概率密度估计.md",
     "Latex.md",
@@ -251,7 +252,6 @@
     "杂项/jekyll.md",
     "杂项/WIFI.md",
     "杂项/Docker.md",
-    "杂项/BLAST.md",
     "book/上帝掷骰子吗？：量子物理史话（升级版).md",
     "杂项/vim.md"
   ]
