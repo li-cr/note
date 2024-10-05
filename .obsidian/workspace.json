@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
+                "file": "模式识别/贝叶斯决策理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
+                "file": "模式识别/贝叶斯决策理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
+                "file": "模式识别/贝叶斯决策理论.md"
               }
             }
           }
@@ -218,8 +218,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "169d1a6eb0481279",
+  "active": "48290234f5094972",
   "lastOpenFiles": [
+    "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "模式识别/贝叶斯决策理论.md",
@@ -230,7 +231,6 @@
     "杂项/BLAST.md",
     "基本命令 和 快捷键.md",
     "基本命令 和 快捷键.pdf",
-    "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "photo/Pasted image 20240928131936.png",
     "photo/Pasted image 20240927230929.png",
     "模式识别/UCAS_模式识别＿01＿绪论.pdf",
