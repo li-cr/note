@@ -15,7 +15,7 @@
               {
                 "id": "2cdf3e8ea56d671f",
                 "type": "tabs",
-                "dimension": 54.37499999999999,
+                "dimension": 41.59722222222222,
                 "children": [
                   {
                     "id": "d3c97f0ec13d4b31",
@@ -35,7 +35,7 @@
               {
                 "id": "16508212038924be",
                 "type": "tabs",
-                "dimension": 45.625,
+                "dimension": 58.40277777777778,
                 "children": [
                   {
                     "id": "169d1a6eb0481279",
@@ -43,7 +43,7 @@
                     "state": {
                       "type": "pdf",
                       "state": {
-                        "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
+                        "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
                       }
                     }
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/贝叶斯决策理论.md",
+                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/贝叶斯决策理论.md",
+                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/贝叶斯决策理论.md"
+                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
               }
             }
           }
@@ -218,18 +218,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "48290234f5094972",
+  "active": "169d1a6eb0481279",
   "lastOpenFiles": [
+    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
+    "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+    "模式识别/贝叶斯决策理论.md",
     "模式识别/概率密度估计.md",
     "photo/Pasted image 20241005155749.png",
     "photo/Pasted image 20241005155715.png",
-    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "Latex.md",
     "杂项/BLAST.md",
-    "模式识别/贝叶斯决策理论.md",
     "基本命令 和 快捷键.md",
     "基本命令 和 快捷键.pdf",
-    "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "photo/Pasted image 20240928131936.png",
     "photo/Pasted image 20240927230929.png",
