@@ -43,7 +43,7 @@
                     "state": {
                       "type": "pdf",
                       "state": {
-                        "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
+                        "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
                       }
                     }
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/概率密度估计.md",
+                "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/概率密度估计.md",
+                "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/概率密度估计.md"
+                "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
               }
             }
           }
@@ -218,13 +218,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "169d1a6eb0481279",
   "lastOpenFiles": [
-    "模式识别/贝叶斯决策理论.md",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
+    "模式识别/概率密度估计.md",
+    "模式识别/贝叶斯决策理论.md",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
-    "模式识别/概率密度估计.md",
     "photo/Pasted image 20241005155749.png",
     "photo/Pasted image 20241005155715.png",
     "Latex.md",
