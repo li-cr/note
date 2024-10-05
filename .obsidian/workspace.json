@@ -15,7 +15,7 @@
               {
                 "id": "2cdf3e8ea56d671f",
                 "type": "tabs",
-                "dimension": 36.666666666666664,
+                "dimension": 54.37499999999999,
                 "children": [
                   {
                     "id": "d3c97f0ec13d4b31",
@@ -35,7 +35,7 @@
               {
                 "id": "16508212038924be",
                 "type": "tabs",
-                "dimension": 63.33333333333333,
+                "dimension": 45.625,
                 "children": [
                   {
                     "id": "169d1a6eb0481279",
@@ -218,7 +218,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "48290234f5094972",
   "lastOpenFiles": [
     "photo/Pasted image 20241005155749.png",
     "photo/Pasted image 20241005155715.png",
