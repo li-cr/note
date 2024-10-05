@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "模式识别/贝叶斯决策理论.md",
+                        "file": "模式识别/概率密度估计.md",
                         "mode": "source",
                         "source": true
                       }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "模式识别/贝叶斯决策理论.md",
+                    "file": "模式识别/概率密度估计.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
+                "file": "模式识别/概率密度估计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
+                "file": "模式识别/概率密度估计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf"
+                "file": "模式识别/概率密度估计.md"
               }
             }
           }
@@ -218,7 +218,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "169d1a6eb0481279",
+  "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
     "模式识别/贝叶斯决策理论.md",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
