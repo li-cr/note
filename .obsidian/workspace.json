@@ -15,7 +15,7 @@
               {
                 "id": "2cdf3e8ea56d671f",
                 "type": "tabs",
-                "dimension": 43.81944444444444,
+                "dimension": 36.666666666666664,
                 "children": [
                   {
                     "id": "d3c97f0ec13d4b31",
@@ -35,7 +35,7 @@
               {
                 "id": "16508212038924be",
                 "type": "tabs",
-                "dimension": 56.18055555555556,
+                "dimension": 63.33333333333333,
                 "children": [
                   {
                     "id": "169d1a6eb0481279",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
+                "file": "模式识别/概率密度估计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
+                "file": "模式识别/概率密度估计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf"
+                "file": "模式识别/概率密度估计.md"
               }
             }
           }
@@ -218,11 +218,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "169d1a6eb0481279",
+  "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
+    "photo/Pasted image 20241005155749.png",
+    "photo/Pasted image 20241005155715.png",
+    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "模式识别/概率密度估计.md",
     "Latex.md",
-    "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "杂项/BLAST.md",
     "模式识别/贝叶斯决策理论.md",
     "基本命令 和 快捷键.md",
@@ -248,7 +250,6 @@
     "杂项/好的网站.md",
     "photo/Pasted image 20240911230333.png",
     "photo/Pasted image 20240911225824.png",
-    "photo/Pasted image 20240911224608.png",
     "模式识别",
     "杂项/使用 Jekyll 创建 GitHub Pages 站点.md",
     "杂项/TMP.md",
