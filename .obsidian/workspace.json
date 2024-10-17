@@ -8,39 +8,51 @@
         "type": "split",
         "children": [
           {
-            "id": "2cdf3e8ea56d671f",
-            "type": "tabs",
+            "id": "3eb95e6d8db29e7f",
+            "type": "split",
             "dimension": 50.98126672613737,
             "children": [
               {
-                "id": "d3c97f0ec13d4b31",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "基本命令 和 快捷键.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "基本命令 和 快捷键"
-                },
-                "group": "3c3671250a907cce"
+                "id": "2cdf3e8ea56d671f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d3c97f0ec13d4b31",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "期望最大法与隐马尔可夫模型"
+                    },
+                    "group": "3c3671250a907cce"
+                  }
+                ]
               },
               {
-                "id": "ab31d4f98402a79f",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.7.4"
-                  },
-                  "icon": "lucide-file",
-                  "title": "Release Notes 1.7.4"
-                }
+                "id": "355f5e7ac1897339",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "628147d11cd17196",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
+                      },
+                      "icon": "lucide-file-text",
+                      "title": "UCAS_模式识别＿04＿参数估计_02"
+                    }
+                  }
+                ]
               }
             ],
-            "currentTab": 1
+            "direction": "horizontal"
           },
           {
             "id": "e71f2c6b271c5889",
@@ -53,12 +65,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "基本命令 和 快捷键.md",
+                    "file": "模式识别/期望最大法与隐马尔可夫模型.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "基本命令 和 快捷键"
+                  "title": "期望最大法与隐马尔可夫模型"
                 },
                 "group": "3c3671250a907cce"
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "基本命令 和 快捷键 的反向链接列表"
+              "title": "期望最大法与隐马尔可夫模型 的反向链接列表"
             }
           },
           {
@@ -166,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本命令 和 快捷键.md",
+                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "基本命令 和 快捷键 的出链列表"
+              "title": "期望最大法与隐马尔可夫模型 的出链列表"
             }
           },
           {
@@ -203,10 +215,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本命令 和 快捷键.md"
+                "file": "模式识别/期望最大法与隐马尔可夫模型.md"
               },
               "icon": "lucide-list",
-              "title": "基本命令 和 快捷键 的大纲"
+              "title": "期望最大法与隐马尔可夫模型 的大纲"
             }
           }
         ],
@@ -228,19 +240,20 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab31d4f98402a79f",
+  "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "模式识别/参数估计.md",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+    "模式识别/期望最大法与隐马尔可夫模型.md",
+    "模式识别/参数估计.md",
+    "模式识别/贝叶斯决策理论.md",
+    "基本命令 和 快捷键.md",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
     "photo/Pasted image 20241008223630.png",
-    "模式识别/贝叶斯决策理论.md",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
     "photo/Pasted image 20241005155749.png",
     "photo/Pasted image 20241005155715.png",
     "Latex.md",
     "杂项/BLAST.md",
-    "基本命令 和 快捷键.md",
     "基本命令 和 快捷键.pdf",
     "photo/Pasted image 20240928131936.png",
     "photo/Pasted image 20240927230929.png",
