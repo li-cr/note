@@ -8,49 +8,39 @@
         "type": "split",
         "children": [
           {
-            "id": "42297e8953a9c70e",
-            "type": "split",
+            "id": "2cdf3e8ea56d671f",
+            "type": "tabs",
             "dimension": 50.98126672613737,
             "children": [
               {
-                "id": "2cdf3e8ea56d671f",
-                "type": "tabs",
-                "dimension": 42.36111111111111,
-                "children": [
-                  {
-                    "id": "d3c97f0ec13d4b31",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "模式识别/参数估计.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    },
-                    "group": "3c3671250a907cce"
-                  }
-                ]
+                "id": "d3c97f0ec13d4b31",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "基本命令 和 快捷键.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "基本命令 和 快捷键"
+                },
+                "group": "3c3671250a907cce"
               },
               {
-                "id": "16508212038924be",
-                "type": "tabs",
-                "dimension": 57.638888888888886,
-                "children": [
-                  {
-                    "id": "169d1a6eb0481279",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
-                      }
-                    }
-                  }
-                ]
+                "id": "ab31d4f98402a79f",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.7.4"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Release Notes 1.7.4"
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 1
           },
           {
             "id": "e71f2c6b271c5889",
@@ -63,10 +53,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "模式识别/参数估计.md",
+                    "file": "基本命令 和 快捷键.md",
                     "mode": "preview",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "基本命令 和 快捷键"
                 },
                 "group": "3c3671250a907cce"
               }
@@ -93,7 +85,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -108,7 +102,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -116,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -138,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/参数估计.md",
+                "file": "基本命令 和 快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "基本命令 和 快捷键 的反向链接列表"
             }
           },
           {
@@ -164,10 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/参数估计.md",
+                "file": "基本命令 和 快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "基本命令 和 快捷键 的出链列表"
             }
           },
           {
@@ -178,7 +182,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -186,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           },
           {
@@ -195,8 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/参数估计.md"
-              }
+                "file": "基本命令 和 快捷键.md"
+              },
+              "icon": "lucide-list",
+              "title": "基本命令 和 快捷键 的大纲"
             }
           }
         ],
@@ -218,11 +228,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "ab31d4f98402a79f",
   "lastOpenFiles": [
+    "模式识别/参数估计.md",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "模式识别/UCAS_模式识别＿03＿参数估计_01.pdf",
-    "模式识别/参数估计.md",
     "photo/Pasted image 20241008223630.png",
     "模式识别/贝叶斯决策理论.md",
     "模式识别/UCAS_模式识别＿02＿贝叶斯决策.pdf",
