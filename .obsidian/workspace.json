@@ -20,12 +20,14 @@
                     "id": "d3c97f0ec13d4b31",
                     "type": "leaf",
                     "state": {
-                      "type": "pdf",
+                      "type": "markdown",
                       "state": {
-                        "file": "book/Martix CookBook.pdf"
+                        "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                        "mode": "source",
+                        "source": true
                       },
-                      "icon": "lucide-file-text",
-                      "title": "Martix CookBook"
+                      "icon": "lucide-file",
+                      "title": "期望最大法与隐马尔可夫模型"
                     },
                     "group": "3c3671250a907cce"
                   }
@@ -61,12 +63,14 @@
                 "id": "48290234f5094972",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Martix CookBook.pdf"
+                    "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                    "mode": "preview",
+                    "source": true
                   },
-                  "icon": "lucide-file-text",
-                  "title": "Martix CookBook"
+                  "icon": "lucide-file",
+                  "title": "期望最大法与隐马尔可夫模型"
                 },
                 "group": "3c3671250a907cce"
               }
@@ -155,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/Martix CookBook.pdf",
+                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Martix CookBook 的反向链接列表"
+              "title": "UCAS_模式识别＿04＿参数估计_02 的反向链接列表"
             }
           },
           {
@@ -174,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/Martix CookBook.pdf",
+                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Martix CookBook 的出链列表"
+              "title": "UCAS_模式识别＿04＿参数估计_02 的出链列表"
             }
           },
           {
@@ -211,10 +215,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/Martix CookBook.pdf"
+                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
               },
               "icon": "lucide-list",
-              "title": "Martix CookBook 的大纲"
+              "title": "UCAS_模式识别＿04＿参数估计_02 的大纲"
             }
           }
         ],
@@ -236,11 +240,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d3c97f0ec13d4b31",
+  "active": "628147d11cd17196",
   "lastOpenFiles": [
     "模式识别/期望最大法与隐马尔可夫模型.md",
-    "book/Martix CookBook.pdf",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+    "book/Martix CookBook.pdf",
     "45.pdf",
     "杂项/好的网站.md",
     "模式识别/贝叶斯决策理论.md",
