@@ -22,12 +22,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                        "file": "杂项/好的网站.md",
                         "mode": "source",
                         "source": true
                       },
                       "icon": "lucide-file",
-                      "title": "期望最大法与隐马尔可夫模型"
+                      "title": "好的网站"
                     },
                     "group": "3c3671250a907cce"
                   }
@@ -65,12 +65,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                    "file": "杂项/好的网站.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "期望最大法与隐马尔可夫模型"
+                  "title": "好的网站"
                 },
                 "group": "3c3671250a907cce"
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                "file": "杂项/好的网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "期望最大法与隐马尔可夫模型 的反向链接列表"
+              "title": "好的网站 的反向链接列表"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                "file": "杂项/好的网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "期望最大法与隐马尔可夫模型 的出链列表"
+              "title": "好的网站 的出链列表"
             }
           },
           {
@@ -215,10 +215,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/期望最大法与隐马尔可夫模型.md"
+                "file": "杂项/好的网站.md"
               },
               "icon": "lucide-list",
-              "title": "期望最大法与隐马尔可夫模型 的大纲"
+              "title": "好的网站 的大纲"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "模式识别/贝叶斯决策理论.md",
     "模式识别/期望最大法与隐马尔可夫模型.md",
+    "模式识别/贝叶斯决策理论.md",
     "模式识别/参数估计.md",
     "基本命令 和 快捷键.md",
     "Latex.md",
