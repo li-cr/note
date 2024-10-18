@@ -20,14 +20,12 @@
                     "id": "d3c97f0ec13d4b31",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "pdf",
                       "state": {
-                        "file": "模式识别/期望最大法与隐马尔可夫模型.md",
-                        "mode": "source",
-                        "source": true
+                        "file": "book/Martix CookBook.pdf"
                       },
-                      "icon": "lucide-file",
-                      "title": "期望最大法与隐马尔可夫模型"
+                      "icon": "lucide-file-text",
+                      "title": "Martix CookBook"
                     },
                     "group": "3c3671250a907cce"
                   }
@@ -63,14 +61,12 @@
                 "id": "48290234f5094972",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "模式识别/期望最大法与隐马尔可夫模型.md",
-                    "mode": "preview",
-                    "source": true
+                    "file": "book/Martix CookBook.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "期望最大法与隐马尔可夫模型"
+                  "icon": "lucide-file-text",
+                  "title": "Martix CookBook"
                 },
                 "group": "3c3671250a907cce"
               }
@@ -159,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                "file": "book/Martix CookBook.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "期望最大法与隐马尔可夫模型 的反向链接列表"
+              "title": "Martix CookBook 的反向链接列表"
             }
           },
           {
@@ -178,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
+                "file": "book/Martix CookBook.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "期望最大法与隐马尔可夫模型 的出链列表"
+              "title": "Martix CookBook 的出链列表"
             }
           },
           {
@@ -215,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/期望最大法与隐马尔可夫模型.md"
+                "file": "book/Martix CookBook.pdf"
               },
               "icon": "lucide-list",
-              "title": "期望最大法与隐马尔可夫模型 的大纲"
+              "title": "Martix CookBook 的大纲"
             }
           }
         ],
@@ -242,8 +238,8 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
-    "Martix CookBook.pdf",
     "模式识别/期望最大法与隐马尔可夫模型.md",
+    "book/Martix CookBook.pdf",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
     "45.pdf",
     "杂项/好的网站.md",
