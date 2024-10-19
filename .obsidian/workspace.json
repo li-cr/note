@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "UCAS_模式识别＿04＿参数估计_02 的反向链接列表"
+              "title": "期望最大法与隐马尔可夫模型 的反向链接列表"
             }
           },
           {
@@ -178,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+                "file": "模式识别/期望最大法与隐马尔可夫模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "UCAS_模式识别＿04＿参数估计_02 的出链列表"
+              "title": "期望最大法与隐马尔可夫模型 的出链列表"
             }
           },
           {
@@ -215,10 +215,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf"
+                "file": "模式识别/期望最大法与隐马尔可夫模型.md"
               },
               "icon": "lucide-list",
-              "title": "UCAS_模式识别＿04＿参数估计_02 的大纲"
+              "title": "期望最大法与隐马尔可夫模型 的大纲"
             }
           }
         ],
@@ -240,10 +240,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "628147d11cd17196",
+  "active": "48290234f5094972",
   "lastOpenFiles": [
-    "模式识别/期望最大法与隐马尔可夫模型.md",
     "模式识别/UCAS_模式识别＿04＿参数估计_02.pdf",
+    "模式识别/期望最大法与隐马尔可夫模型.md",
     "book/Martix CookBook.pdf",
     "45.pdf",
     "杂项/好的网站.md",
