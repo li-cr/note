@@ -15,6 +15,7 @@
               {
                 "id": "2cdf3e8ea56d671f",
                 "type": "tabs",
+                "dimension": 39.23611111111111,
                 "children": [
                   {
                     "id": "d3c97f0ec13d4b31",
@@ -36,6 +37,7 @@
               {
                 "id": "355f5e7ac1897339",
                 "type": "tabs",
+                "dimension": 60.763888888888886,
                 "children": [
                   {
                     "id": "628147d11cd17196",
@@ -242,6 +244,7 @@
   },
   "active": "d3c97f0ec13d4b31",
   "lastOpenFiles": [
+    "photo/Pasted image 20241022132546.png",
     "photo/Pasted image 20241022130140.png",
     "photo/Snipaste_2024-10-22_12-58-27 (2).png",
     "photo/Snipaste_2024-10-22_12-58-27 (1).png",
@@ -267,7 +270,6 @@
     "photo/Pasted image 20241005155715.png",
     "杂项/BLAST.md",
     "基本命令 和 快捷键.pdf",
-    "photo/Pasted image 20240928131936.png",
     "README.md",
     "未命名.canvas",
     "模式识别/~$UCAS_模式识别＿02＿贝叶斯决策.ppt",
