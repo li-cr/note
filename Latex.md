@@ -31,8 +31,10 @@ $$
 
 \texttt{\\alpha \\omega \\beta \\lambda}  :&\quad \dots \;\cdots \;\vdots \;\ddots\\
 
-\texttt{\\rm} :&\quad reject \quad\rm{reject}
-\end{aligned} 
+\texttt{\\rm} :&\quad reject \quad\rm{reject} \\
+\texttt{\\underset\{A\}\{B\}} :&\quad \underset{A}{B} \quad \\
+
+\end{aligned}  \\
 \end{equation}
 $$
 <br>
